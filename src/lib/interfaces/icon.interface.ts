@@ -1,4 +1,4 @@
 export interface IIcon {
-	viewBox: string;
-	path: string;
+  viewBox: string;
+  path: string;
 }

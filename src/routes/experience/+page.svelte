@@ -103,7 +103,7 @@
 				title="Full Stack Developer at Grupo Business IT"
 				contract="Internship"
 				type="Remote"
-				duration="Feb 2022 - Jun 2022 · 5 mos"
+				duration="Sep 2021 - Feb 2022 · 6 mos"
 				technologies={['sql', 'node', 'react']}
 			>
 				<ul class="list-disc ml-0 md:ml-4">

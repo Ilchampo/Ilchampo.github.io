@@ -4,6 +4,15 @@
 
 	import Icon from '$lib/components/Icon.svelte';
 	import Bubbles from '$lib/components/Bubbles.svelte';
+
+	const downloadPDF = () => {
+		const link = document.createElement('a');
+        link.href = 'src/lib/assets/documents/resume.pdf';
+        link.download = 'Pablo-Beltran-Resume.pdf';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+	};
 </script>
 
 <svelte:head><title>Pablo Beltran | Resume</title></svelte:head>
@@ -18,7 +27,7 @@
 		class="card card-hover flex flex-col gap-4 justify-center items-center z-10 bg-initial p-4 w-80 h-80"
 	>
 		<Icon name="download" height="h-40" width="w-40" />
-		<button type="button" class="btn variant-filled-primary w-32">Download</button>
+		<button type="button" class="btn variant-filled-primary w-32" on:click={() => downloadPDF()}>Download</button>
 	</div>
 
 	{#if !$isMobile}
