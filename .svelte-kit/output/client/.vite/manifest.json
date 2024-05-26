@@ -1,0 +1,226 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "file": "_app/immutable/entry/app.NKG2JmCs.js",
+    "name": "entry/app",
+    "src": ".svelte-kit/generated/client-optimized/app.js",
+    "isEntry": true,
+    "imports": [
+      "_scheduler.C-0YFhF0.js",
+      "_index.ola9ti-H.js"
+    ],
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js",
+      ".svelte-kit/generated/client-optimized/nodes/3.js",
+      ".svelte-kit/generated/client-optimized/nodes/4.js",
+      ".svelte-kit/generated/client-optimized/nodes/5.js",
+      ".svelte-kit/generated/client-optimized/nodes/6.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "file": "_app/immutable/nodes/0.0FCAudCC.js",
+    "name": "nodes/0",
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.C-0YFhF0.js",
+      "_index.ola9ti-H.js",
+      "_index.BqH4I7s2.js",
+      "_mobile.store.D3CH42nr.js",
+      "_entry.j7SDI27J.js",
+      "_Icon.BHaOAdXx.js"
+    ],
+    "css": [
+      "_app/immutable/assets/0.WXz_qCQF.css"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "_app/immutable/nodes/1.BiVFUBzm.js",
+    "name": "nodes/1",
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.C-0YFhF0.js",
+      "_index.ola9ti-H.js",
+      "_entry.j7SDI27J.js",
+      "_images.H9u0yAjq.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "file": "_app/immutable/nodes/2.CPvnxh7X.js",
+    "name": "nodes/2",
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.C-0YFhF0.js",
+      "_index.ola9ti-H.js",
+      "_mobile.store.D3CH42nr.js",
+      "_Bubbles.C49S0KwU.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/3.js": {
+    "file": "_app/immutable/nodes/3.BjPcewkH.js",
+    "name": "nodes/3",
+    "src": ".svelte-kit/generated/client-optimized/nodes/3.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.C-0YFhF0.js",
+      "_index.ola9ti-H.js",
+      "_mobile.store.D3CH42nr.js",
+      "_each.D6YF6ztN.js",
+      "_images.H9u0yAjq.js",
+      "_Bubbles.C49S0KwU.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/4.js": {
+    "file": "_app/immutable/nodes/4.MMCjeLMD.js",
+    "name": "nodes/4",
+    "src": ".svelte-kit/generated/client-optimized/nodes/4.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.C-0YFhF0.js",
+      "_index.ola9ti-H.js",
+      "_mobile.store.D3CH42nr.js",
+      "_each.D6YF6ztN.js",
+      "_Icon.BHaOAdXx.js",
+      "_images.H9u0yAjq.js",
+      "_Bubbles.C49S0KwU.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/5.js": {
+    "file": "_app/immutable/nodes/5.E1TWT05I.js",
+    "name": "nodes/5",
+    "src": ".svelte-kit/generated/client-optimized/nodes/5.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.C-0YFhF0.js",
+      "_index.ola9ti-H.js",
+      "_mobile.store.D3CH42nr.js",
+      "_Icon.BHaOAdXx.js",
+      "_Bubbles.C49S0KwU.js",
+      "_images.H9u0yAjq.js"
+    ]
+  },
+  ".svelte-kit/generated/client-optimized/nodes/6.js": {
+    "file": "_app/immutable/nodes/6.CCKel1uZ.js",
+    "name": "nodes/6",
+    "src": ".svelte-kit/generated/client-optimized/nodes/6.js",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_scheduler.C-0YFhF0.js",
+      "_index.ola9ti-H.js",
+      "_mobile.store.D3CH42nr.js",
+      "_Icon.BHaOAdXx.js",
+      "_Bubbles.C49S0KwU.js"
+    ]
+  },
+  "_Bubbles.!~{00f}~.js": {
+    "file": "_app/immutable/assets/Bubbles.C5NmNbns.css",
+    "src": "_Bubbles.!~{00f}~.js"
+  },
+  "_Bubbles.C49S0KwU.js": {
+    "file": "_app/immutable/chunks/Bubbles.C49S0KwU.js",
+    "name": "Bubbles",
+    "imports": [
+      "_scheduler.C-0YFhF0.js",
+      "_index.ola9ti-H.js"
+    ],
+    "css": [
+      "_app/immutable/assets/Bubbles.C5NmNbns.css"
+    ]
+  },
+  "_Icon.BHaOAdXx.js": {
+    "file": "_app/immutable/chunks/Icon.BHaOAdXx.js",
+    "name": "Icon",
+    "imports": [
+      "_scheduler.C-0YFhF0.js",
+      "_index.ola9ti-H.js"
+    ]
+  },
+  "_each.D6YF6ztN.js": {
+    "file": "_app/immutable/chunks/each.D6YF6ztN.js",
+    "name": "each"
+  },
+  "_entry.j7SDI27J.js": {
+    "file": "_app/immutable/chunks/entry.j7SDI27J.js",
+    "name": "entry",
+    "imports": [
+      "_scheduler.C-0YFhF0.js",
+      "_index.BqH4I7s2.js"
+    ]
+  },
+  "_images.H9u0yAjq.js": {
+    "file": "_app/immutable/chunks/images.H9u0yAjq.js",
+    "name": "images",
+    "assets": [
+      "_app/immutable/assets/company_deft_consulting.DJ4KXYtB.jpeg",
+      "_app/immutable/assets/not_found.R9IFufzk.png",
+      "_app/immutable/assets/project_altiore.DoRZzvru.png",
+      "_app/immutable/assets/project_belware.drO9awfu.png",
+      "_app/immutable/assets/project_buccelli.BDSnVqTx.png"
+    ]
+  },
+  "_index.BqH4I7s2.js": {
+    "file": "_app/immutable/chunks/index.BqH4I7s2.js",
+    "name": "index",
+    "imports": [
+      "_scheduler.C-0YFhF0.js"
+    ]
+  },
+  "_index.ola9ti-H.js": {
+    "file": "_app/immutable/chunks/index.ola9ti-H.js",
+    "name": "index",
+    "imports": [
+      "_scheduler.C-0YFhF0.js"
+    ]
+  },
+  "_mobile.store.D3CH42nr.js": {
+    "file": "_app/immutable/chunks/mobile.store.D3CH42nr.js",
+    "name": "mobile.store",
+    "imports": [
+      "_scheduler.C-0YFhF0.js",
+      "_index.BqH4I7s2.js"
+    ]
+  },
+  "_scheduler.C-0YFhF0.js": {
+    "file": "_app/immutable/chunks/scheduler.C-0YFhF0.js",
+    "name": "scheduler"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/entry.js": {
+    "file": "_app/immutable/entry/start.DDMjrjsP.js",
+    "name": "entry/start",
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_entry.j7SDI27J.js"
+    ]
+  },
+  "src/lib/assets/images/company_deft_consulting.jpeg": {
+    "file": "_app/immutable/assets/company_deft_consulting.DJ4KXYtB.jpeg",
+    "src": "src/lib/assets/images/company_deft_consulting.jpeg"
+  },
+  "src/lib/assets/images/not_found.png": {
+    "file": "_app/immutable/assets/not_found.R9IFufzk.png",
+    "src": "src/lib/assets/images/not_found.png"
+  },
+  "src/lib/assets/images/project_altiore.png": {
+    "file": "_app/immutable/assets/project_altiore.DoRZzvru.png",
+    "src": "src/lib/assets/images/project_altiore.png"
+  },
+  "src/lib/assets/images/project_belware.png": {
+    "file": "_app/immutable/assets/project_belware.drO9awfu.png",
+    "src": "src/lib/assets/images/project_belware.png"
+  },
+  "src/lib/assets/images/project_buccelli.png": {
+    "file": "_app/immutable/assets/project_buccelli.BDSnVqTx.png",
+    "src": "src/lib/assets/images/project_buccelli.png"
+  }
+}

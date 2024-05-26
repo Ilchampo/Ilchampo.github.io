@@ -6,7 +6,7 @@ const config = {
 	extensions: ['.svelte'],
 	preprocess: [vitePreprocess()],
 	pahts: {
-		base: process.env.NODE_ENV === 'production' ? '/Ilchampo' : '',
+		base: process.env.NODE_ENV === 'production' ? '/Ilchampo.github.io' : '',
 	},
 	kit: {
 		adapter: adapter()
