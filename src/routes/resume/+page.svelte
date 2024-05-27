@@ -2,15 +2,20 @@
 	import { isMobile } from '$lib/stores/mobile.store';
 	import { fade } from 'svelte/transition';
 
+	import documents from '$lib/assets/documents';
 	import Icon from '$lib/components/Icon.svelte';
 	import Bubbles from '$lib/components/Bubbles.svelte';
 
 	const downloadPDF = () => {
 		const link = document.createElement('a');
-        link.href = 'src/lib/assets/documents/resume.pdf';
-        link.download = 'Pablo-Beltran-Resume.pdf';
+        
+		link.href = documents.RESUME;
+        
+		link.download = 'Pablo-Beltran-Resume.pdf';
         document.body.appendChild(link);
-        link.click();
+        
+		link.click();
+
         document.body.removeChild(link);
 	};
 </script>
