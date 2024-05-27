@@ -1,7 +1,7 @@
-import RESUME from '$lib/assets/documents/resume.pdf';
+import RESUME from "$lib/assets/documents/resume.pdf";
 
 const documents = {
-    RESUME,
+  RESUME,
 };
 
 export default documents;
